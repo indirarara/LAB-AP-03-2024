@@ -18,4 +18,4 @@ try:
 
         print(f"hari {jumlah_hari}: serangga A =  {populasi_A}, serangga B = {populasi_B} ")
 except:
-    print("eyy masukin angka bukan kalimat sayang")
+    print("eyy masukin angka bukan huruf sayang")

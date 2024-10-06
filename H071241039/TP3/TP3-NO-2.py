@@ -8,7 +8,6 @@ while percobaan > 0:
     except :
         print("masukin angka bukan kalimat. ULANG!!!")
         continue
-    tebakan = int(input("masukan tebakan anda (0 untuk berhenti): "))
     if tebakan == angka_rahasia:
         print("selamat! anda menebak angka dengan benar.")
         break
