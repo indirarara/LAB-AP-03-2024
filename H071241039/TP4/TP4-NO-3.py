@@ -13,7 +13,7 @@ def hitung_langkah(n):
     elif n==1 :
         print("jangan 1 nanti langkahnya 0 hmzzzz")
     else :
-        print("masukin bilangan positif kaks manis")
+        print("masukin bilangan positif kaksssss")
 try :
     n = int(input("masukkan angka = "))
     hitung_langkah(n)
